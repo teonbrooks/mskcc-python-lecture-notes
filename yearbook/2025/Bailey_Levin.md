@@ -1,2 +1,2 @@
-***BOLD***
-~~Strikethrough~~
+***Bailey***
+~~was here~~
